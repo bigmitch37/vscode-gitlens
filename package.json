@@ -8651,7 +8651,7 @@
 				},
 				{
 					"command": "gitlens.gk.switchOrganization",
-					"when": "gitlens:gk:hasMultipleOrganizations"
+					"when": "gitlens:gk:hasMultipleOrganizationOptions"
 				},
 				{
 					"command": "gitlens.showPatchDetailsPage",
